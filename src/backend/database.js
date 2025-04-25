@@ -1,0 +1,1 @@
+// Database logic for storing content and images will be implemented here
